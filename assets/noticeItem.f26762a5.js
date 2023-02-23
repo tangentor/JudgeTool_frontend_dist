@@ -1,0 +1,1 @@
+import{e as t,i as n,o as a,c,n as s,j as r,F as l}from"./index.e4ce814e.js";const i=t({__name:"noticeItem",setup(m){const e=()=>{};return(_,p)=>{const o=n("el-botton");return a(),c(l,null,[s(" \u901A\u77E5\u4E8B\u9879 "),r(o,{onClick:e})],64)}}});export{i as default};

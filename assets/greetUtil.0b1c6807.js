@@ -1,0 +1,1 @@
+const D=t=>{const u=new Date().getHours();let e="";return u<6?e="\u51CC\u6668\u597D":u<12?e="\u4E0A\u5348\u597D":u<13?e="\u4E2D\u5348\u597D":u<18?e="\u4E0B\u5348\u597D":u<20?e="\u508D\u665A\u597D":e="\u665A\u4E0A\u597D",`${t},${e}\uFF01`};export{D as g};

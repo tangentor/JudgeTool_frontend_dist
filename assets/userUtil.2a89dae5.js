@@ -1,0 +1,1 @@
+import{g as r}from"./cookieUtil.c9429606.js";const e=()=>r("user"),n=()=>e()?e().username:"",i=()=>e()?e().nickname:"",o=()=>{if(e())return e().rid==3||e().rid==5};export{n as a,e as b,i as g,o as i};
